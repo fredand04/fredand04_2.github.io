@@ -6,51 +6,95 @@ http://www.mywebsite.com
 
 http://www.linkedin.com/in/andrewfrederick
 
-# Summary
+---
+
+## Summary
 
 I qualify for the job because of my rigorous academic background and hands-on experience managing fast-paced environments, coordinating teams, and delivering results under pressure.
 
-# Work Experience (only last 10 years)
+---
 
-## Wendy's (Portland, Oregon)
+## Work Experience (Last 10 Years)
 
-* [University 1][] feeds many in an accelerated, fast-paced environment.*
+### Wendy's — Portland, Oregon
 
-**Project Manager** (2017 - 2021)
+*Fast-paced food service environment focused on efficiency and customer satisfaction.*
 
-Managed daily operations and coordinated staff in a high-volume food service setting while maintaining efficiency and customer satisfaction.
+**Project Manager** (2017 – 2021)
 
-- **Led a team of 5+ employees, improving order accuracy and reducing wait times by 20%.**
+Managed daily operations and coordinated staff in a high-volume food service setting.
+
+- **Led a team of 15+ employees, improving order accuracy and reducing wait times by 20%.**
 - Oversaw employee scheduling, training, and onboarding.
-- Ensured compliance with company policies, safety standards, and procedures.
+- Ensured compliance with safety and sanitation standards.
 - Collaborated with management to implement operational improvements.
 
-## Bellevue College (Bellevue, Washington)
+ https://www.wendys.com
 
-*[University 2][] is a public community college serving a diverse student population with strong academic and workforce programs.*
+---
 
-**Operations Coordinator (Program Assistant)** (2021 - 2023)
+### Bellevue College — Bellevue, Washington
 
-Supported academic and administrative operations through coordination, documentation, and communication.
+*Public community college serving a diverse student population.*
+
+**Operations Coordinator (Program Assistant)** (2021 – 2023)
+
+Supported academic and administrative operations through coordination and communication.
 
 - **Streamlined administrative workflows, reducing processing time by 25%.**
 - Coordinated meetings, events, and academic schedules.
-- Maintained records, reports, and internal documentation.
-- Served as a primary contact for students, staff, and external partners.
+- Maintained internal documentation and reports.
+- Served as a primary contact for students and staff.
 
-## University of Washington (Seattle, Washington)
+ https://www.bellevuecollege.edu
 
-*[University 3][] is a leading public research university known for innovation and interdisciplinary research.*
+---
 
-**Research Assistant** (2023 - Present)
+### University of Washington — Seattle, Washington
 
-Assisted faculty with research projects, data collection, and analysis.
+*Leading public research university known for innovation.*
 
-- Conducted data collection and organization for research studies.
+**Research Assistant** (2023 – Present)
+
+Assisted faculty with research projects and data analysis.
+
+- Conducted qualitative and quantitative data collection.
 - Assisted with literature reviews and report preparation.
-- Analyzed qualitative and quantitative data.
-- Collaborated with team members to meet project deadlines.
+- Analyzed datasets and summarized findings.
+- Collaborated with interdisciplinary research teams.
 
-[University 1]: https://www.wendys.com/
-[University 2]: https://www.bellevuecollege.edu  
-[University 3]: https://www.washington.edu
+ https://www.washington.edu
+
+---
+
+## Skills
+
+### Technical Skills
+- Markdown
+- Git & GitHub
+- Microsoft Office
+- Data Organization
+
+### Soft Skills
+- Team Leadership
+- Time Management
+- Communication
+- Problem Solving
+
+---
+
+## Education
+
+- **University of Washington** — Bachelor’s Degree (In Progress)  
+- **Bellevue College** — Associate Degree  
+
+---
+
+## Portfolio & Links
+
+- GitHub: https://github.com  
+- LinkedIn: https://www.linkedin.com  
+- University of Washington: https://www.washington.edu  
+- Bellevue College: https://www.bellevuecollege.edu  
+
+---
